@@ -1,0 +1,5 @@
+# SMART: “System for Materials and Automatic Reminder Texts” 
+
+## Individual Assessment created for International Baccalaureate Computer Science Higher Level class
+
+Displays all stickers ordered in the past week using Square and what type of envelope and stamp should be used. Keeps track of all aspects of inventory and orders. The set-up of the solution system is object-oriented, with different types of merchandise, stamps, and envelopes all being literal objects and easy to encode in an OOP language like Java. Treating every order or inventory item as an object will facilitate easy searching and sorting. Using Java also allows the final solution to be saved as a runnable program onto the contractor’s computer, allowing them to easily access the GUI view of what is needed for the week’s orders and the inventory, and search or sort the orders.
